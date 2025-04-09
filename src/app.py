@@ -1,4 +1,5 @@
 def soma(a, b):
+    
     return a + b
 
 def eh_par(a):
@@ -19,3 +20,4 @@ def cadastro_usuario(nome, email):
     }
     usuario.append(novo_usuario)
     return "Corinthians"
+
